@@ -1,0 +1,5 @@
+/* CSS pour masquer des éléments en mode plein écran */
+.hide-in-fullscreen {
+    display: none;
+  }
+  
